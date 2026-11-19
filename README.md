@@ -1,5 +1,3 @@
-# Loan Tracker
-
 Offline app to track money you gave or took. No internet needed, all data stays on your device.
 
 ## Features
