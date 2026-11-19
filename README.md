@@ -15,7 +15,11 @@ Offline app to track money you gave or took. No internet needed, all data stays 
 
 ## Screenshots
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/home.png" width="240" /> | <img src="assets/screenshots/overview.png" width="240" /> | <img src="assets/screenshots/detail.png" width="240" /> |
-| <img src="assets/screenshots/schedule.png" width="240" /> | <img src="assets/screenshots/edit.png" width="240" /> | <img src="assets/screenshots/settings.png" width="240" /> |
+<p align="center">
+  <img src="assets/screenshots/home.png" width="240" />
+  <img src="assets/screenshots/overview.png" width="240" />
+  <img src="assets/screenshots/detail.png" width="240" />
+  <img src="assets/screenshots/schedule.png" width="240" />
+  <img src="assets/screenshots/edit.png" width="240" />
+  <img src="assets/screenshots/settings.png" width="240" />
+</p>
